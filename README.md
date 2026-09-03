@@ -3,6 +3,12 @@
 > **Topic:** Next.js 16 & Turbopack Performance Benchmark — Towards a Lighter, Zero-Bloat App Router.
 > **Issue:** InvariantError E1068 during static prerendering & RSC Flight CSS duplication.
 
+## 📊 Benchmark Overview & Impact
+
+![Next.js Benchmark Comparison (English)](https://raw.githubusercontent.com/agentHits/next-prerender-workstore-reproduction/main/nextjs-lightweight-benchmark-en.png)
+
+![Next.js Benchmark Comparison (Russian)](https://raw.githubusercontent.com/agentHits/next-prerender-workstore-reproduction/main/nextjs-lightweight-benchmark-ru.png)
+
 ---
 
 ## 🎯 Purpose of this Benchmark Project
@@ -82,4 +88,3 @@ bun run build
 
 ## 📄 License
 MIT
-
